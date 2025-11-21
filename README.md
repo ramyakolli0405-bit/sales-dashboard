@@ -25,3 +25,4 @@ Order Date, Product, Category, Region, Customer, Sales, Profit, Quantity, Discou
 📈 Business insights for decision making
 
 screenshot:
+https://github.com/ramyakolli0405-bit/sales-dashboard/blob/main/Screenshot%202025-11-21%20213128.png
